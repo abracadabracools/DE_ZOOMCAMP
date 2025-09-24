@@ -1,1 +1,4 @@
-✅ Completed Docker Intro Video (Hello World container runs fine)
+Week-1
+
+- issues
+  - [ ] need to find a way to create mark down files easily
