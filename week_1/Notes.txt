@@ -1,0 +1,3 @@
+- notes
+  - In PG ADMIN - instead of servers -> server   . Use Register - >  server : and then input the Username and passwords
+    
