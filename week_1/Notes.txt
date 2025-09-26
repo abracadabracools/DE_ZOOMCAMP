@@ -1,3 +1,8 @@
-- notes
+- General
   - In PG ADMIN - instead of servers -> server   . Use Register - >  server : and then input the Username and passwords
+
+-Docker Notes
+An engine specifies the database details in a URI. The structure of the URI is:
+
+database://user:password@host:port/database_name
     
