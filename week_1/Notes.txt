@@ -1,8 +1,20 @@
 - General
   - In PG ADMIN - instead of servers -> server   . Use Register - >  server : and then input the Username and passwords
-
+  - creating a local server on personal machine - 
+  
+	python -m http.server
+	
+	in browser - localhost:8000
+	
+	to get ip address - gitbash - ipconfig -> 172.31.48.1
+	
+	personal server url = http://172.31.48.1:8000/
+	
+	
 -Docker Notes
-An engine specifies the database details in a URI. The structure of the URI is:
+	An engine specifies the database details in a URI. The structure of the URI is:
 
-database://user:password@host:port/database_name
+	database://user:password@host:port/database_name
+	
+	
     

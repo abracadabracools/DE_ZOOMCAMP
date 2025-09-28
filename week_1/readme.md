@@ -1,4 +1,9 @@
 Week-1
+
+###
+
+- SQL - KHAN ACADEMY - https://www.khanacademy.org/computing/computer-programming/sql-documentation
+
 ### 🗓️ Phase 1: Refresh Everything (2–3 days)
 
 Goal: Be able to redo everything you learned _without looking at the tutorial._
